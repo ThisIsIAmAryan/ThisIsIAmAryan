@@ -1,4 +1,8 @@
 # 💫 About Me:
+Student aspiring to be a Software Engineer with some experience in web development and backend systems. Learning
+Next.js, React, and MongoDB, along with Data Structures and Algorithms. Looking for opportunities to grow and build
+real-world software.
+
 🔭 I’m working on a study material website.<br>👯 I’m open to collaborating on web development and open-source projects.<br>🤝 I’m looking for help with advanced backend and full-stack optimization.<br>🌱 I’m learning Data Structures in C++, Web Development and Python.<br>💬 Ask me about Next.js, React, or my project experiences.<br>⚡ Fun fact: I love playing chess.
 
 
